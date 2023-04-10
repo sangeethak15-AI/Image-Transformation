@@ -119,26 +119,31 @@ plt.show()
 
 ### ii) Image Scaling
 
+![Screenshot 2023-04-08 103144](https://user-images.githubusercontent.com/93992063/230818554-421356bb-c5ad-423c-b649-e51a2cb07529.png)
 
 
 
 ### iii)Image shearing
 
+![Screenshot 2023-04-08 103216](https://user-images.githubusercontent.com/93992063/230818569-304690a1-f040-4b50-8ae8-0d123566f0d5.png)
 
 
 ### iv)Image Reflection
 
+![Screenshot 2023-04-08 103246](https://user-images.githubusercontent.com/93992063/230818595-cce2d93e-bfb0-4360-b8f2-a89ed48a8da5.png)
 
 
 
 ### v)Image Rotation
 
 
+![Screenshot 2023-04-08 103314](https://user-images.githubusercontent.com/93992063/230818671-a0bc8496-dec9-4a3e-b646-5a417f2c5c33.png)
 
 
 ### vi)Image Cropping
 
 
+![Screenshot 2023-04-08 103410](https://user-images.githubusercontent.com/93992063/230818688-f2545ca3-d312-4737-8590-4a0ac46ae896.png)
 
 
 
